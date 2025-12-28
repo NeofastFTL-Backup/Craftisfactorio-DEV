@@ -1,0 +1,151 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "intro"
+	group: "49D0DDE3386375F3"
+	icon: "minecraft:writable_book"
+	id: "017EFF273FA599D7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["In order to unlock certain tiers to unlock new items, you need to pipe in the items into the task screen to complete a tier you have grinded for!"]
+			icon: "minecraft:book"
+			id: "7C397ECA118A7315"
+			rewards: [{
+				id: "33947401B4D207AD"
+				item: "minecraft:enchanted_golden_apple"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6CF085664794CABB"
+					title: "Done reading?"
+					type: "checkmark"
+				}
+				{
+					id: "062CF9F44F5FFBC9"
+					observe_type: 0
+					timer: 0L
+					title: "Observe your future factory!"
+					to_observe: "ftbquests:screen_1"
+					type: "observation"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C397ECA118A7315"]
+			description: ["Do a /rtp to find the ore veins you want easier!"]
+			icon: "minecraft:writable_book"
+			id: "2266604A6238B3C0"
+			rewards: [{
+				id: "5CDDD3F6AE590062"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "68D493BE531EACCE"
+				title: "Yes?"
+				type: "checkmark"
+			}]
+			title: "Handy tips along the way!"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C397ECA118A7315"]
+			description: ["I made it to that you have by default infinite /home counts!"]
+			icon: "minecraft:writable_book"
+			id: "3446F8AFF76634C8"
+			rewards: [{
+				id: "3C95CFB5CB41EAE1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0E5D8E3ADE195DB4"
+				title: "Yes?"
+				type: "checkmark"
+			}]
+			title: "Infinite Homes!"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C397ECA118A7315"]
+			description: [
+				"There is no cooldown on /back!"
+				"(Warning no gravestone will wait for you)"
+			]
+			icon: "minecraft:writable_book"
+			id: "4251D4B6174F528D"
+			rewards: [{
+				id: "64E8CF2E0586D7AE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "510EC259D1B00F1C"
+				title: "Yes?"
+				type: "checkmark"
+			}]
+			title: "Back to Slash!"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7C397ECA118A7315"]
+			description: [
+				"Yes, it's by default."
+				"And yes,"
+				""
+				"IT'S INTENTIONAL!"
+			]
+			icon: "minecraft:writable_book"
+			id: "7A783BAAABC2E334"
+			rewards: [{
+				id: "6437B1BCA5454ED0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3E71674D9CA865D6"
+				title: "Yes?"
+				type: "checkmark"
+			}]
+			title: "No cooldowns overall!"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2266604A6238B3C0"]
+			description: [
+				"The Filter you can set to a specific output, for example:"
+				"Raw Iron Block"
+				"Coal Block"
+				"Raw Copper Block"
+				"That's a smart automation at the early start!"
+			]
+			icon: "sophisticatedstorage:filter_upgrade"
+			id: "694BDA9ED914027F"
+			tasks: [
+				{
+					id: "3E1CCA45D65A1DDD"
+					item: "sophisticatedstorage:filter_upgrade"
+					type: "item"
+				}
+				{
+					id: "1861B7767CD791DA"
+					item: "sophisticatedstorage:advanced_compacting_upgrade"
+					type: "item"
+				}
+			]
+			title: "Filtering the Compressed Raw Materials!"
+			x: 3.0d
+			y: 2.5d
+		}
+	]
+	title: "Intro"
+}

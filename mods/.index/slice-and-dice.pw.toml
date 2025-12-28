@@ -1,0 +1,16 @@
+filename = 'sliceanddice-forge-3.6.0.jar'
+name = 'Create Slice & Dice'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a4e47dbf4382ebe092b6c2cb71919e412b456d84'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7184951
+project-id = 659674

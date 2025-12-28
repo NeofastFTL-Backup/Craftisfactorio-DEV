@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "7c5fc52273484c44957500b6a46b7608"
+	name: "NeofastFTL#7c5fc522"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		062CF9F44F5FFBC9: 1
+	}
+	started: {
+		017EFF273FA599D7: 1766652329071L
+		062CF9F44F5FFBC9: 1766652329071L
+		0000000000000001: 1766652329071L
+		7C397ECA118A7315: 1766652329071L
+	}
+	completed: {
+		062CF9F44F5FFBC9: 1766652329072L
+	}
+	claimed_rewards: { }
+	player_data: {
+		7c5fc52273484c44957500b6a46b7608: {
+			can_edit: 1b
+		}
+	}
+}

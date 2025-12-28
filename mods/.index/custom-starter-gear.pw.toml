@@ -1,0 +1,16 @@
+filename = 'CustomStartingGear-1.20-2.0.3.jar'
+name = 'Custom Starter Gear'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '30b8b2bff57d04498c730aa5a42ed804f3ea32f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4683468
+project-id = 253735

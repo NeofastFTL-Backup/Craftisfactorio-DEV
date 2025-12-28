@@ -1,0 +1,16 @@
+filename = 'mekanism_turrets-1.3.1.jar'
+name = 'Mekanism Turrets & Fences'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'af29992e511c705f297d82079843afb7dde1b763'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7130551
+project-id = 1031448

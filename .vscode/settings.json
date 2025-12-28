@@ -1,0 +1,16 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "config\\jei",
+            "group": "Default"
+        },
+        {
+            "filePath": "kubejs",
+            "group": "Default"
+        },
+        {
+            "filePath": "scripts",
+            "group": "Default"
+        }
+    ]
+}

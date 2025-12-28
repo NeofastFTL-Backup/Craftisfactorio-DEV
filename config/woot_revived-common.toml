@@ -1,0 +1,109 @@
+
+#Cell
+[cell]
+	#The tank capacity of the Copper Vitality Cell [Default: 30000]
+	copperCapacity = 30000
+	#The tank capacity of the Iron Vitality Cell [Default: 100000]
+	ironCapacity = 100000
+	#The tank capacity of the Gold Vitality Cell [Default: 250000]
+	goldCapacity = 250000
+	#The tank capacity of the Diamond Vitality Cell [Default: 500000]
+	diamondCapacity = 500000
+	#The tank capacity of the Netherite Vitality Cell [Default: 1000000]
+	netheriteCapacity = 1000000
+
+#Dye Liquifier
+[dye_liquifier]
+	#The energy capacity of the Dye Liquifier [Default: 25000]
+	energyCapacity = 25000
+	#The max energy in/out transfer rate of the Dye Liquifier [Default: 1000]
+	energyMaxTransfer = 1000
+	#The energy transfer rate of the Dye Liquifier [Default: 50]
+	energyProcessTransfer = 50
+	#The fluid transfer rate of the Dye Liquifier [Default: 500]
+	fluidTransfer = 500
+	#The output tank capacity of the Dye Liquifier [Default: 25000]
+	outputTankCapacity = 25000
+	#The reference amount of color produce per dye [Default: 125]
+	colorProduceAmount = 125
+	#Amount of pure dye produced after conversion conditions are met [Default: 500]
+	pureDyeProduceAmount = 500
+	#The internal red tank capacity of the Dye Liquifier [Default: 12500]
+	redTankCapacity = 12500
+	#The internal yellow tank capacity of the Dye Liquifier [Default: 12500]
+	yellowTankCapacity = 12500
+	#The internal blue tank capacity of the Dye Liquifier [Default: 12500]
+	blueTankCapacity = 12500
+	#The internal white tank capacity of the Dye Liquifier [Default: 12500]
+	whiteTankCapacity = 12500
+
+#Enchanted Liquifier
+[enchanted_liquifier]
+	#The energy capacity of the Enchanted Liquifier [Default: 100000]
+	energyCapacity = 100000
+	#The max energy in/out transfer rate of the Enchanted Liquifier [Default: 1000]
+	energyMaxTransfer = 1000
+	#The energy transfer rate of the Enchanted Liquifier [Default: 100]
+	energyProcessTransfer = 100
+	#The fluid transfer rate of the Enchanted Liquifier [Default: 500]
+	fluidTransfer = 500
+	#The output tank capacity of the Enchanted Liquifier [Default: 50000]
+	outputTankCapacity = 50000
+	#The enchanted fluid produced per enchant level [Default: 2500]
+	perEnchantFluid = 2500
+	#The energy used per enchant level [Default: 5000]
+	perEnchantEnergy = 5000
+	#The max level of enchantment that can be converted [Default: 10]
+	maxEnchantLevel = 10
+
+#Fluid Infuser
+[fluid_infuser]
+	#The energy capacity of the Fluid Infuser [Default: 50000]
+	energyCapacity = 50000
+	#The max energy in/out transfer rate of the Fluid Infuser [Default: 1000]
+	energyMaxTransfer = 1000
+	#The energy transfer rate of the Fluid Infuser [Default: 250]
+	energyProcessTransfer = 250
+	#The fluid transfer rate of the Fluid Infuser [Default: 50000]
+	fluidTransfer = 50000
+	#The input tank capacity of the Fluid Infuser [Default: 50000]
+	inputTankCapacity = 50000
+	#The output tank capacity of the Fluid Infuser [Default: 50000]
+	outputTankCapacity = 50000
+
+#Item Infuser
+[item_infuser]
+	#The energy capacity of the Item Infuser [Default: 50000]
+	energyCapacity = 50000
+	#The max energy in/out transfer rate of the Item Infuser [Default: 1000]
+	energyMaxTransfer = 1000
+	#The energy transfer rate of the Item Infuser [Default: 250]
+	energyProcessTransfer = 250
+	#The fluid transfer rate of the Item Infuser [Default: 500]
+	fluidTransfer = 500
+	#The input tank capacity of the Item Infuser [Default: 25000]
+	inputTankCapacity = 25000
+
+#Magmator
+[magmator]
+	#The tick rate for the Copper Magmator [Default: 50]
+	copperTickRate = 50
+	#The tick rate for the Iron Magmator [Default: 20]
+	ironTickRate = 20
+	#The tick rate for the Gold Magmator [Default: 10]
+	goldTickRate = 10
+	#The tick rate for the Diamond Magmator [Default: 5]
+	diamondTickRate = 5
+	#The tick rate for the Netherite Magmator [Default: 1]
+	netheriteTickRate = 1
+
+#Mob Shard
+[mob_shard]
+	#Number of kills to program the shard [Default: 5]
+	numOfKills = 5
+
+#Guide
+[guide]
+	#Should give the woot guide book on player first connection [Default: true]
+	shouldGiveOnSpawn = true
+

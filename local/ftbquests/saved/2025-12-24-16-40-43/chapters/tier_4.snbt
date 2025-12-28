@@ -1,0 +1,131 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_4"
+	group: "49D0DDE3386375F3"
+	icon: "kubejs:tier_4_research"
+	id: "7876092EA6E11FBA"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "336E2516C4E3C84A"
+			tasks: [{
+				count: 32L
+				id: "7D07008269999862"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
+			title: "Requirement 1"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "180E35B54305C2B6"
+			tasks: [{
+				count: 32L
+				id: "6ACFAEAB9E0481B2"
+				item: "minecraft:quartz_block"
+				type: "item"
+			}]
+			title: "Requirement 2"
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			id: "241FAFF385EDE536"
+			tasks: [{
+				count: 32L
+				id: "12E9D1B12EFBC85D"
+				item: "minecraft:glowstone"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"336E2516C4E3C84A"
+				"241FAFF385EDE536"
+				"180E35B54305C2B6"
+			]
+			id: "182D3AF8E1918B9F"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "3CB5D1839642ADF4"
+					item: "kubejs:tier_4_research"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					command: "/ftbquests change_progress @p reset 7876092EA6E11FBA"
+					elevate_perms: true
+					icon: "minecraft:furnace"
+					id: "6A2EFB7FF13AA37C"
+					silent: true
+					title: "Reset"
+					type: "command"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "minecraft:popped_chorus_fruit"
+				id: "7637BF04ED40673F"
+				title: "You did it!"
+				type: "dimension"
+			}]
+			title: "Unlocked Tier 5!"
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["182D3AF8E1918B9F"]
+			hide_details_until_startable: false
+			icon: "kubejs:tier_4_research"
+			id: "31B29A61159B6809"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p Tier5Research"
+					elevate_perms: true
+					icon: "minecraft:grass_block"
+					id: "2D6C8E1565906276"
+					silent: true
+					title: "Unlocked Tier 5 Elements!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:jukebox"
+					id: "5B5533582CAE1CC4"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/title @p title {\"text\":\"Unlocked Tier 5\",\"color\":\"light_purple\"}"
+					elevate_perms: true
+					icon: "minecraft:compass"
+					id: "2AE07DF12AA5565A"
+					silent: true
+					title: "More Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2CB19B203244697E"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlocked Researching Tier 5!"
+			x: 3.5d
+			y: 3.0d
+		}
+	]
+	title: "Tier 4"
+}

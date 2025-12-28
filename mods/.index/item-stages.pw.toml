@@ -1,0 +1,16 @@
+filename = 'ItemStages-Forge-1.20.1-8.0.3.jar'
+name = 'Item Stages'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '806bfd896cb9af31016d26566406beb5859ff94b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5214094
+project-id = 280316

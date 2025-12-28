@@ -1,0 +1,22 @@
+{
+  "id": "Here_-89220-64-175102",
+  "name": "Here",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1523269-waypoint-icon.png",
+  "x": -89220,
+  "y": 64,
+  "z": 175102,
+  "r": 232,
+  "g": 193,
+  "b": 187,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

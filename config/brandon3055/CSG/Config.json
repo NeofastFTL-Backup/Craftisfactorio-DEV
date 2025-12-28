@@ -1,0 +1,39 @@
+{
+  "inventory": {
+    "0:5": "{Count:64b,id:\"minecraft:cooked_beef\"}",
+    "0:20": "{Count:1b,id:\"createoreexcavation:netherite_drill\"}",
+    "0:29": "{Count:1b,id:\"createoreexcavation:drilling_machine\"}",
+    "0:18": "{Count:1b,id:\"createoreexcavation:netherite_drill\"}",
+    "0:30": "{Count:1b,id:\"createoreexcavation:drilling_machine\"}",
+    "0:0": "{Count:1b,id:\"mekanismtools:netherite_paxel\",tag:{Damage:0,Unbreakable:1b}}",
+    "0:21": "{Count:1b,id:\"createoreexcavation:netherite_drill\"}",
+    "0:3": "{Count:1b,id:\"createoreexcavation:vein_atlas\"}",
+    "0:28": "{Count:1b,id:\"createoreexcavation:drilling_machine\"}",
+    "0:4": "{Count:1b,id:\"create:andesite_funnel\"}",
+    "0:19": "{Count:1b,id:\"createoreexcavation:netherite_drill\"}",
+    "0:27": "{Count:1b,id:\"createoreexcavation:drilling_machine\"}",
+    "0:2": "{Count:1b,id:\"ftbquests:screen_1\"}",
+    "0:1": "{Count:1b,id:\"createoreexcavation:vein_finder\",tag:{Enchantments:[{id:\"cooldownremover:cooldown_remover\",lvl:1s}],isFiltered:1b}}",
+    "0:31": "{Count:1b,id:\"create:hand_crank\"}"
+  },
+  "kits": {
+    "start": {
+      "0:4": "{Count:1b,id:\"create:andesite_funnel\"}",
+      "0:28": "{Count:1b,id:\"createoreexcavation:drilling_machine\"}",
+      "0:19": "{Count:1b,id:\"createoreexcavation:netherite_drill\"}",
+      "0:5": "{Count:64b,id:\"minecraft:cooked_beef\"}",
+      "0:21": "{Count:1b,id:\"createoreexcavation:netherite_drill\"}",
+      "0:27": "{Count:1b,id:\"createoreexcavation:drilling_machine\"}",
+      "0:0": "{Count:1b,id:\"mekanismtools:netherite_paxel\",tag:{Damage:0,Unbreakable:1b}}",
+      "0:3": "{Count:1b,id:\"createoreexcavation:vein_atlas\"}",
+      "0:29": "{Count:1b,id:\"createoreexcavation:drilling_machine\"}",
+      "0:1": "{Count:1b,id:\"createoreexcavation:vein_finder\",tag:{Enchantments:[{id:\"cooldownremover:cooldown_remover\",lvl:1s}],isFiltered:1b}}",
+      "0:2": "{Count:1b,id:\"ftbquests:screen_1\"}",
+      "0:30": "{Count:1b,id:\"createoreexcavation:drilling_machine\"}",
+      "0:18": "{Count:1b,id:\"createoreexcavation:netherite_drill\"}",
+      "0:20": "{Count:1b,id:\"createoreexcavation:netherite_drill\"}",
+      "0:31": "{Count:1b,id:\"create:hand_crank\"}"
+    }
+  },
+  "wipeBlacklist": []
+}

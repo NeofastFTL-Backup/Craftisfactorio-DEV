@@ -1,0 +1,16 @@
+filename = 'create_ultimate_factory-2.2.1-forge-1.20.1.jar'
+name = 'Create: Ultimate Factory'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '995ac0c9888711c49ea133127493f551371c03da'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7087917
+project-id = 978125

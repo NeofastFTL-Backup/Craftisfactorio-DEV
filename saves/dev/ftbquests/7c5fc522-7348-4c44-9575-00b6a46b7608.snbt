@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7c5fc52273484c44957500b6a46b7608"
+	name: "NeofastFTL#7c5fc522"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

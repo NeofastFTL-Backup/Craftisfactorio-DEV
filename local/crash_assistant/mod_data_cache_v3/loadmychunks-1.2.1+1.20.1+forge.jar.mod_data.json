@@ -1,0 +1,1 @@
+{"jarName":"loadmychunks-1.2.1+1.20.1+forge.jar","modId":"loadmychunks","version":"1.2.1","mixinConfigs":["mixins.forge.loadmychunks.json","mixins.fabric.loadmychunks.json","mixins.loadmychunks.json","mixins.neoforge.loadmychunks.json"],"jarJarMods":[],"curseForgeHash":1390460511,"modrinthHash":"1e909d547d9afb6905b1af54a64b5b01763aefc6"}

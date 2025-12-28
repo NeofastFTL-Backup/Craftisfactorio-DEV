@@ -1,0 +1,16 @@
+filename = 'ponderjs-1.20.1-2.1.0.jar'
+name = 'Ponder for KubeJS'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a661c5dc6cf28815154e71e066a9e8b13a9fc0c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7188949
+project-id = 622888

@@ -1,0 +1,9 @@
+#Zones: 
+zones = ""
+#Maximum range for zone from x to z for players without creative. F.e x1,z1=113, x2,z2=-200, range=313
+#Range: 0.0 ~ 3.4028234663852886E38
+zoneMaximum = 100.0
+#Zones per player maximum without creative
+#Range: > 0
+zonesPerPlayer = 1
+

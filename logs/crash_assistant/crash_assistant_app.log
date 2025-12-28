@@ -1,0 +1,45 @@
+[2025-12-28 10:08:56.003] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-12-28 10:08:56.005] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, local\crash_assistant\27524_1766916529025_app.jar, -parentPID, 27524, -parentStarted, 1766916529025, -platform, FORGE, -loaderJarName, fmlloader-1.20.1-47.4.13.jar, -minecraftVersion, 1.20.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarName, CrashAssistant-forge-1.19-1.20.1-1.10.26.jar, -classPath, local\crash_assistant\27524_1766916529025_app.jar;local\crash_assistant\27524_1766916529025_mod.jar;C:\Users\NeofastFTL\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\NeofastFTL\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\NeofastFTL\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\NeofastFTL\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\NeofastFTL\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\NeofastFTL\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar, -parentXms, unknown, -parentXmx, 6G, -systemRAM, 47.7g, -processor, SW50ZWwoUikgQ29yZShUTSkgaTctMTQ3MDBL, -serialisedGPUs, VnVsa2FuIEdQVSBkZXRlY3Rpb24gYWRkb24gbm90IGZvdW5kLCBmYWxsaW5nIGJhY2sgdG8gRGlyZWN0WApTdWNjZXNzZnVsbHkgZGV0ZWN0ZWQgR1BVcyB1c2luZyBEaXJlY3RYOgpJTlRFR1JBVEVEIDogSW50ZWwoUikgVUhEIEdyYXBoaWNzIDc3MApERURJQ0FURUQgOiBOVklESUEgR2VGb3JjZSBSVFggNDA2MCBUaQoNCg==]
+[2025-12-28 10:08:56.005] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\NeofastFTL\Documents\GitHub\Craftisfactorio-DEV
+[2025-12-28 10:08:56.005] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-forge-1.19-1.20.1-1.10.26.jar
+[2025-12-28 10:08:56.006] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 27524
+[2025-12-28 10:08:56.006] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1766916529025
+[2025-12-28 10:08:56.007] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FORGE
+[2025-12-28 10:08:56.007] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fmlloader-1.20.1-47.4.13.jar
+[2025-12-28 10:08:56.007] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.20.1
+[2025-12-28 10:08:56.008] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-12-28 10:08:56.008] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: unknown
+[2025-12-28 10:08:56.008] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 6G
+[2025-12-28 10:08:56.008] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 47.7g
+[2025-12-28 10:08:56.008] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: Intel(R) Core(TM) i7-14700K
+[2025-12-28 10:08:56.008] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Vulkan GPU detection addon not found, falling back to DirectX
+Successfully detected GPUs using DirectX:
+INTEGRATED : Intel(R) UHD Graphics 770
+DEDICATED : NVIDIA GeForce RTX 4060 Ti
+
+
+[2025-12-28 10:08:56.008] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 10
+[2025-12-28 10:08:56.011] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\NeofastFTL\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\javaw.exe
+[2025-12-28 10:08:56.011] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 17.0.15+6-LTS
+[2025-12-28 10:08:56.021] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 27524 to stop.
+[2025-12-28 10:09:14.326] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+NVIDIA GeForce RTX 4060 Ti/PCIe/SSE2
+[2025-12-28 10:16:57.730] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "27524" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2025-12-28 10:16:57.765] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\NeofastFTL\Documents\GitHub\Craftisfactorio-DEV\logs\latest.log
+[2025-12-28 10:16:57.766] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding debug.log from C:\Users\NeofastFTL\Documents\GitHub\Craftisfactorio-DEV\logs\debug.log
+[2025-12-28 10:16:57.766] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: stderr_stream.log size: 381 bytes
+[2025-12-28 10:16:57.769] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: client.log from C:\Users\NeofastFTL\Documents\GitHub\Craftisfactorio-DEV\logs\kubejs\client.log
+[2025-12-28 10:16:57.770] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: server.log from C:\Users\NeofastFTL\Documents\GitHub\Craftisfactorio-DEV\logs\kubejs\server.log
+[2025-12-28 10:16:57.771] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: startup.log from C:\Users\NeofastFTL\Documents\GitHub\Craftisfactorio-DEV\logs\kubejs\startup.log
+[2025-12-28 10:16:57.771] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crafttweaker.log from C:\Users\NeofastFTL\Documents\GitHub\Craftisfactorio-DEV\logs\crafttweaker.log
+[2025-12-28 10:16:57.772] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\NeofastFTL\Documents\GitHub\Craftisfactorio-DEV\logs\crash_assistant\crash_assistant_app.log
+[2025-12-28 10:16:57.772] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
+[2025-12-28 10:16:57.772] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: true
+[2025-12-28 10:16:57.772] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: stop() function of Minecraft fired: true
+[2025-12-28 10:16:57.773] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: close() function of Minecraft failed: false
+[2025-12-28 10:16:57.773] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: emergencySave() function of Minecraft fired: false
+[2025-12-28 10:16:57.775] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isModpackCreator: true
+[2025-12-28 10:16:57.776] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isHelpLinkDefault: true
+[2025-12-28 10:16:57.776] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: helpLink: https://discord.minecraftforge.net
+[2025-12-28 10:16:57.777] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.

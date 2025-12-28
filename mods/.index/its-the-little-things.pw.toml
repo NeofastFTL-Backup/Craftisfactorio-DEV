@@ -1,0 +1,16 @@
+filename = 'itlt-1.20.01-2.2.1.jar'
+name = "It's the little things"
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '635087bd2d93b2650306a950e3cb1fe4b539fb1f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4744144
+project-id = 232791

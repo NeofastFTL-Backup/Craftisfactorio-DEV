@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_9"
+	group: "49D0DDE3386375F3"
+	icon: "kubejs:tier_9_research"
+	id: "55EF19346CDC5AE1"
+	order_index: 9
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 9"
+}

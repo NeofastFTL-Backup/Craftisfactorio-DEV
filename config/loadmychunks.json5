@@ -1,0 +1,89 @@
+{
+	// The maximum time in milliseconds it can take to tick a chunk completely.
+	// If this time is exceeded the chunk will be considered 'overticked' and
+	// the loader temporarily disables. Note these ranges are super arbitrary,
+	// Running with 0 will functionally disable the mod and running at 1000
+	// will only disable chunks if they take an entire second to process (1tps)
+	// which is basically gameplay ruining tps lag. The default here is equal to
+	// ~2 TPS per loaded chunk max which should be fair for well-designed end
+	// game bases.
+	"msPerChunk": 5, 
+	// The time in seconds an overticked chunk needs to wait before being
+	// reloaded by a chunk loader.
+	"delayBeforeReload": 300, 
+	// The time in seconds a reloaded chunk is allowed to exist before chunk
+	// tick times are checked.
+	"reloadGracePeriod": 5, 
+	// The lagometer effectively allows xraying chunks to find bases on chunk
+	// lag. On pvp servers I highly recommend setting this to true. On pve
+	// servers the lagometer is relatively harmless to player base security. Keep
+	// this false.
+	"lagometerNeedsChunkOwnership": false, 
+	"useDebugLogging": false, 
+	// Maximum number of times a chunk loader's range can be extended.
+	"maximumRangeExtensions": 1, 
+	// Controls the default level for placed load my chunks chunk loaders. Set
+	// to "loadmychunks:ticking" for managed forced ticking,
+	// "loadmychunks:entity_ticking" for managed entity ticking, "loadmychunks:permanent" for
+	// unmanaged ticking, "loadmychunks:permanent_entity_ticking" for unmanaged
+	// entity ticking.
+	"placedChunkLoaderDefaultLevel": "loadmychunks:ticking", 
+	// When true, no mod items or blocks will be registered, allowing clients
+	// without the mod to be able to connect. This is intended for servers that
+	// merely want to run the LMC chunk loading engine. Must restart the game
+	// to enable!
+	"zeroContent": false, 
+	// Configures chunk loader item consumption
+	"cost": {
+		// Set to true to enable this feature.
+		"enabled": false, 
+		// The time in seconds each item grants per chunk loader.
+		"timeSecondsGained": 14400, 
+		// Essentially makes loading more expensive if the loader is entity ticking
+		// as well when this value is >0 and <1.
+		"entityTickingCostFactor": 1.0, 
+		// Change this to set the itemstack consumed.
+		"itemStack": {
+			"item": "minecraft:ender_pearl", 
+			"size": 1
+		}
+	}, 
+	// Allows limiting number of loaded chunks.
+	"limitSettings": {
+		// When enabled players can only have a certain number of concurrently
+		// forced chunks
+		"enabledForPlayers": false, 
+		// When enabled, the environment can only have a certain number of
+		// concurrently forced chunks. This is specifically included as a safeguard against
+		// non-player placed loaders.
+		"enabledForEnvironment": false, 
+		// Maximum number of concurrently loaded chunks a player/the environment
+		// can have
+		"limit": 63
+	}, 
+	// Integration settings for CC:Tweaked
+	"cct": {
+		// Enables turtle chunk loading.
+		"enableTurtleChunkLoading": true, 
+		// Makes turtles consume items to remain loaded (only applies if
+		// cost/enabled is true)
+		"turtlesConsumeItems": true, 
+		// Makes all turtles act as chunk loaders without needing a peripheral.
+		// Chunk Loader Peripheral LUA features will still be unavailable without a
+		// chunk loader peripheral present. In addition, they will consume items if
+		// the feature is enabled.
+		"turtlesChunkLoadWithoutPeripheral": false, 
+		// Makes turtle chunk loaders ignore LMC's lag limit system. Not
+		// recommended for public servers.
+		"ignoreTickChecks": false, 
+		// When 2: Usage allowed in all computers. When 1: Usage banned in turtles
+		// and pocket computers. When 0: Usage banned in all computers
+		"lagometerComputerExposureLevel": 2, 
+		// Controls the default level for turtle chunk loaders. Set to
+		// "loadmychunks:ticking" for managed forced ticking, "loadmychunks:entity_ticking" for
+		// managed entity ticking, "loadmychunks:permanent" for unmanaged ticking,
+		// "loadmychunks:permanent_entity_ticking" for unmanaged entity ticking.
+		"turtleChunkLoaderDefaultLevel": "loadmychunks:ticking"
+	}, 
+	"T_V_": 1
+}

@@ -1,0 +1,21 @@
+[10:09:07] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[10:09:07] [INIT] Loaded plugins:
+[10:09:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[10:09:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[10:09:07] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[10:09:07] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[10:09:07] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[10:09:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[10:09:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[10:09:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[10:09:07] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[10:09:07] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[10:09:07] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[10:09:07] [INIT] - wootrevived.woot.compat.kubejs.WootKubeJSPlugin
+[10:09:07] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[10:09:07] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[10:09:07] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[10:09:07] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[10:09:07] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[10:09:07] [INFO] Loaded 1/1 KubeJS client scripts in 0.086 s with 0 errors and 0 warnings
+[10:09:13] [INFO] Client resource reload complete!

@@ -1,0 +1,16 @@
+filename = 'SolarFluxReborn-1.20.1-20.1.11.jar'
+name = 'Solar Flux Reborn'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '695dfec5431b8c5da9f3a4d836d4dfd2b3d6af27'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6382702
+project-id = 246974

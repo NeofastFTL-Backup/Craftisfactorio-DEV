@@ -1,0 +1,16 @@
+filename = 'woot-revived-20.1.1.1.jar'
+name = 'Woot Revived'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cc4f512be97970b8ef6a39d89babc852ea9f435e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7274926
+project-id = 1337238

@@ -1,0 +1,127 @@
+[10:09:05.431][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[10:09:05.482][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[10:09:05.563][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin jeitweaker:common
+[10:09:05.604][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[10:09:05.605][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[10:09:05.607][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin mekanism:crt_plugin
+[10:09:05.636][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:forge': loading scheduled
+[10:09:05.641][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
+[10:09:05.644][INFO][JEITweaker]: Identified JeiTweaker plugin 'mekanism:crt_jei': loading scheduled
+[10:09:05.668][INFO][JEITweaker]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
+[10:09:05.668][INFO][JEITweaker]: Running JeiTweaker plugin initialization
+[10:09:05.765][INFO][JEITweaker]: JeiTweaker plugin initialization completed successfully
+[10:09:07.643][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[10:09:07.644][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.59'
+[10:09:07.644][INFO][CraftTweaker]: - 'extendedcrafting' at version '6.0.10'
+[10:09:07.644][INFO][CraftTweaker]: - 'gamestages' at version '15.0.2'
+[10:09:07.644][INFO][CraftTweaker]: - 'immersiveengineering' at version '1.20.1-10.2.0-183'
+[10:09:07.644][INFO][CraftTweaker]: - 'itemstages' at version '8.0.3'
+[10:09:07.644][INFO][CraftTweaker]: - 'jeitweaker' at version '8.0.6'
+[10:09:07.644][INFO][CraftTweaker]: - 'mekanism' at version '10.4.16'
+[10:09:07.644][INFO][CraftTweaker]: - 'mekmm' at version '1.1.0'
+[10:09:07.644][INFO][CraftTweaker]: - 'recipestages' at version '8.0.0.2'
+[10:09:11.842][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'mekanismcontent'
+[10:09:12.018][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[10:09:12.335][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[10:09:12.405][INFO][CraftTweaker-ZenCode]: Execution for loader 'mekanismcontent' completed successfully
+[10:09:12.405][INFO][Mekanism]: Registering 0 custom gases.
+[10:09:12.408][INFO][Mekanism]: Registering 0 custom infuse types.
+[10:09:12.416][INFO][Mekanism]: Registering 0 custom pigments.
+[10:09:12.420][INFO][Mekanism]: Registering 0 custom slurries.
+[10:09:14.518][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[10:09:14.553][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[10:09:14.555][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[10:09:14.570][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[10:09:46.443][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[10:09:46.452][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[10:09:46.454][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[10:09:46.459][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[10:09:47.396][INFO][CraftTweaker]: CraftTweaker reload starting!
+[10:09:47.404][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[10:09:47.413][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[10:09:47.482][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[10:09:47.483][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_1.zs' with priority 0
+[10:09:47.485][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_2.zs' with priority 0
+[10:09:47.485][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_3.zs' with priority 0
+[10:09:47.485][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_4.zs' with priority 0
+[10:09:47.485][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_5.zs' with priority 0
+[10:09:47.485][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_6.zs' with priority 0
+[10:09:47.485][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_7.zs' with priority 0
+[10:09:47.486][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_8.zs' with priority 0
+[10:09:47.486][INFO][CraftTweaker-ZenCode]: Loading file 'stage_tier_9.zs' with priority 0
+[10:09:47.506][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier2Research].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier2Research].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier2Research].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier2Research].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [LogisticsMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [StorageMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [StorageMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [StorageMK1].
+[10:09:47.507][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [StorageMK1].
+[10:09:47.508][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [StorageMK1].
+[10:09:47.508][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [ProductionMK1].
+[10:09:47.508][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [MaterialsMK1].
+[10:09:47.508][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [MaterialsMK1].
+[10:09:47.508][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [MaterialsMK1].
+[10:09:47.508][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [MaterialsMK1].
+[10:09:47.508][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK1].
+[10:09:47.508][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK1].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier3Research].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK2].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [CreateMK2].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK2].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK2].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier4Research].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK3].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK3].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier5Research].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [StorageMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [StorageMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [TechnologyMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [TechnologyMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [TechnologyMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [TechnologyMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [TechnologyMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK4].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier6Research].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK5].
+[10:09:47.509][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK5].
+[10:09:47.510][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK5].
+[10:09:47.510][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [BuildingMK5].
+[10:09:47.510][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [HydroDynamicsMK5].
+[10:09:47.510][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier7Research].
+[10:09:47.510][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier8Research].
+[10:09:47.510][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier9Research].
+[10:09:47.510][INFO][Item Stages Restrictions]: [ItemStages] Creating new restriction for stages [Tier10Research].
+[10:09:47.510][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[10:09:47.512][INFO][CraftTweaker]: CraftTweaker reload complete!
+[10:09:47.512][INFO][CraftTweaker]: This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

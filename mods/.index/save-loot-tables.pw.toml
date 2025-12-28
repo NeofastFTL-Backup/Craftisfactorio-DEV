@@ -1,0 +1,16 @@
+filename = 'saveloottables-forge-1.0.1.2.jar'
+name = 'Save Loot Tables'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8f0c3aed7c1d47da3b807a7ade5e8a5d3f506bd9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6518000
+project-id = 1230370

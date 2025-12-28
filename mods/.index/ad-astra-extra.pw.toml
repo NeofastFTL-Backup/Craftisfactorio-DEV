@@ -1,0 +1,16 @@
+filename = 'adastraextra-forge-1.20.1-1.2.3.jar'
+name = 'Ad Astra Extra'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b28e904f2cbe19475b91c8d2abe69bd6b368a83'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5037401
+project-id = 957097

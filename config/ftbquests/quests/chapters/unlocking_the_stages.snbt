@@ -1,0 +1,1809 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "unlocking_the_stages"
+	group: "49D0DDE3386375F3"
+	icon: "extendedcrafting:ultimate_singularity"
+	id: "17C2F539AFB42B8E"
+	images: [
+		{
+			height: 3.0d
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 180.0d
+			width: 3.0d
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			color: 16748540
+			dependency: "702AD1BC797D74B3"
+			height: 3.0d
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 180.0d
+			width: 3.0d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			color: 9109330
+			dependency: "448816F7D4D70BE2"
+			height: 3.0d
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 180.0d
+			width: 3.0d
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			color: 5767115
+			dependency: "63F6797D276B7C6F"
+			height: 3.0d
+			image: "immersiveengineering:block/conveyor/conveyor"
+			rotation: 180.0d
+			width: 3.0d
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			height: 3.0d
+			image: "ae2:block/chest/top_item"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			color: 16721199
+			dependency: "59F8CBCCD3458267"
+			height: 3.0d
+			image: "ae2:block/chest/top_item"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			color: 16772436
+			dependency: "0F10108645E1C5F8"
+			height: 3.0d
+			image: "ae2:block/chest/top_item"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			color: 6946608
+			dependency: "63F6797D276B7C6F"
+			height: 3.0d
+			image: "ae2:block/chest/top_item"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: -9.0d
+		}
+		{
+			height: 3.0d
+			image: "create:block/andesite_encased_cogwheel_side"
+			rotation: 0.0d
+			width: 3.0d
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			color: 16724237
+			dependency: "074ABFD51CB600D8"
+			height: 3.0d
+			image: "create:block/andesite_encased_cogwheel_side"
+			rotation: 0.0d
+			width: 3.0d
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			color: 16767234
+			dependency: "6822554BADC1B6F7"
+			height: 3.0d
+			image: "create:block/andesite_encased_cogwheel_side"
+			rotation: 0.0d
+			width: 3.0d
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			color: 9633584
+			dependency: "6822554BADC1B6F7"
+			height: 3.0d
+			image: "create:block/andesite_encased_cogwheel_side"
+			rotation: 0.0d
+			width: 3.0d
+			x: 9.0d
+			y: -9.0d
+		}
+		{
+			height: 3.0d
+			image: "extendedcrafting:block/crystaltine_block"
+			rotation: 0.0d
+			width: 3.0d
+			x: 15.5d
+			y: -1.5d
+		}
+		{
+			dependency: "03D5AAC024D064B6"
+			height: 3.0d
+			image: "extendedcrafting:block/crystaltine_block"
+			rotation: 0.0d
+			width: 3.0d
+			x: 15.5d
+			y: -4.0d
+		}
+		{
+			dependency: "3F78D5C9DEEF2924"
+			height: 3.0d
+			image: "extendedcrafting:block/crystaltine_block"
+			rotation: 0.0d
+			width: 3.0d
+			x: 15.5d
+			y: -6.5d
+		}
+		{
+			dependency: "3F78D5C9DEEF2924"
+			height: 3.0d
+			image: "extendedcrafting:block/crystaltine_block"
+			rotation: 0.0d
+			width: 3.0d
+			x: 15.5d
+			y: -9.0d
+		}
+		{
+			height: 4.0d
+			hover: ["Create the Automation to conquer this mod!"]
+			image: "craftisfactory:item/create_logo"
+			rotation: 0.0d
+			width: 9.0d
+			x: 9.0d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/scroll_down_arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			hover: ["But y no Tinker's Construct?"]
+			image: "fancymenu:textures/contextmenu/scroll_down_arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: -11.0d
+		}
+		{
+			height: 4.0d
+			hover: ["Materials and You"]
+			image: "craftisfactory:item/materials_logo"
+			rotation: 0.0d
+			width: 5.0d
+			x: 15.5d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/scroll_down_arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/scroll_down_arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -11.0d
+		}
+		{
+			height: 3.5d
+			hover: ["You have some need for a gud AE2 system!"]
+			image: "craftisfactory:item/storage_logo"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: -13.0d
+		}
+		{
+			color: 6652159
+			height: 4.0d
+			hover: ["Logistics! ~ Hypnotizd - One SF3 Episode..."]
+			image: "craftisfactory:item/logistics2_logo"
+			rotation: 0.0d
+			width: 4.0d
+			x: -4.0d
+			y: -13.0d
+		}
+		{
+			height: 3.0d
+			image: "enderio:block/alloy_smelter_front"
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.5d
+			y: -1.5d
+		}
+		{
+			dependency: "4B51521E6834EEC9"
+			height: 3.0d
+			image: "enderio:block/alloy_smelter_front"
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.5d
+			y: -4.0d
+		}
+		{
+			dependency: "7B96F46DE7C4FD1D"
+			height: 3.0d
+			image: "enderio:block/alloy_smelter_front"
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.5d
+			y: -6.5d
+		}
+		{
+			dependency: "328ACB000149BCBD"
+			height: 3.0d
+			image: "enderio:block/alloy_smelter_front"
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.5d
+			y: -9.0d
+		}
+		{
+			dependency: "4B51521E6834EEC9"
+			height: 3.0d
+			image: "enderio:block/alloy_smelter_front_active"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.5d
+			y: -1.5d
+		}
+		{
+			dependency: "7B96F46DE7C4FD1D"
+			height: 3.0d
+			image: "enderio:block/alloy_smelter_front_active"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.5d
+			y: -4.0d
+		}
+		{
+			dependency: "328ACB000149BCBD"
+			height: 3.0d
+			image: "enderio:block/alloy_smelter_front_active"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.5d
+			y: -6.5d
+		}
+		{
+			dependency: "56F882224DFA7ACB"
+			height: 3.0d
+			image: "enderio:block/alloy_smelter_front_active"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.5d
+			y: -9.0d
+		}
+		{
+			height: 4.0d
+			hover: [
+				"Mekanism"
+				"You either mek it"
+				"or brek it"
+			]
+			image: "craftisfactory:item/mekanism_logo"
+			rotation: 0.0d
+			width: 4.0d
+			x: 21.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/scroll_down_arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 21.5d
+			y: -11.0d
+		}
+		{
+			height: 3.0d
+			image: "immersiveengineering:block/fluid/creosote_flow"
+			rotation: 0.0d
+			width: 3.0d
+			x: 27.5d
+			y: -1.5d
+		}
+		{
+			dependency: "42553991FF47FD65"
+			height: 3.0d
+			image: "enderio:block/fluid_dew_of_the_void_flowing"
+			rotation: 0.0d
+			width: 3.0d
+			x: 27.5d
+			y: -4.0d
+		}
+		{
+			dependency: "1CC50EF23DDD7A75"
+			height: 3.0d
+			image: "thermal:block/fluids/glowstone_flow"
+			rotation: 0.0d
+			width: 3.0d
+			x: 27.5d
+			y: -6.5d
+		}
+		{
+			dependency: "231B41D8B51BDEC1"
+			height: 3.0d
+			image: "thermal:block/fluids/redstone_flow"
+			rotation: 90.0d
+			width: 3.0d
+			x: 27.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/scroll_down_arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 27.5d
+			y: -11.0d
+		}
+		{
+			height: 4.0d
+			image: "craftisfactory:item/tank_logo"
+			order: 1
+			rotation: 0.0d
+			width: 4.0d
+			x: 27.5d
+			y: -14.5d
+		}
+		{
+			height: 5.0d
+			image: "ponder:textures/gui/logo.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 27.5d
+			y: -13.0d
+		}
+		{
+			height: 3.0d
+			image: "minecraft:block/detector_rail"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -1.5d
+		}
+		{
+			dependency: "7B3FC571ADAEFEF0"
+			height: 3.0d
+			image: "minecraft:block/detector_rail"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -4.0d
+		}
+		{
+			dependency: "1EE7C6C1222A64F8"
+			height: 3.0d
+			image: "minecraft:block/detector_rail"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -6.5d
+		}
+		{
+			dependency: "363830092865345C"
+			height: 3.0d
+			image: "minecraft:block/detector_rail"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/scroll_down_arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 33.5d
+			y: -11.0d
+		}
+		{
+			dependency: "7B3FC571ADAEFEF0"
+			height: 3.0d
+			image: "minecraft:block/detector_rail_on"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -1.5d
+		}
+		{
+			dependency: "1EE7C6C1222A64F8"
+			height: 3.0d
+			image: "minecraft:block/detector_rail_on"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -4.0d
+		}
+		{
+			dependency: "363830092865345C"
+			height: 3.0d
+			image: "minecraft:block/detector_rail_on"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -6.5d
+		}
+		{
+			dependency: "2E84176DD9EA4DDF"
+			height: 3.0d
+			image: "minecraft:block/detector_rail_on"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -9.0d
+		}
+		{
+			height: 4.0d
+			image: "railways:textures/gui/journeymap_train.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 33.5d
+			y: -13.5d
+		}
+		{
+			height: 3.0d
+			image: "rftoolsbuilder:block/machinebuilder"
+			rotation: 0.0d
+			width: 3.0d
+			x: 39.0d
+			y: -1.5d
+		}
+		{
+			dependency: "53F25606B1F3CDFA"
+			height: 3.0d
+			image: "rftoolsbuilder:block/machinebuilder"
+			rotation: 0.0d
+			width: 3.0d
+			x: 39.0d
+			y: -4.0d
+		}
+		{
+			dependency: "74C45D212ED5E6A3"
+			height: 3.0d
+			image: "rftoolsbuilder:block/machinebuilder"
+			rotation: 0.0d
+			width: 3.0d
+			x: 39.0d
+			y: -6.5d
+		}
+		{
+			dependency: "4C22BEC293B32687"
+			height: 3.0d
+			image: "rftoolsbuilder:block/machinebuilder"
+			rotation: 0.0d
+			width: 3.0d
+			x: 39.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/scroll_down_arrow.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 39.0d
+			y: -11.0d
+		}
+		{
+			height: 3.0d
+			image: "ad_astra:item/hammer"
+			rotation: 0.0d
+			width: 3.0d
+			x: 39.0d
+			y: -13.0d
+		}
+	]
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			hide_until_deps_complete: true
+			id: "702AD1BC797D74B3"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p LogisticsMK1"
+					elevate_perms: true
+					icon: "immersiveengineering:conveyor_basic"
+					id: "70828D0670474B4D"
+					silent: true
+					title: "Unlocked Logistics MK 1!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "47D309CA42A78E1C"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "088849E678B9CBE4"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlock Logistics MK I"
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["702AD1BC797D74B3"]
+			hide_until_deps_complete: true
+			id: "448816F7D4D70BE2"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p LogisticsMK2"
+					elevate_perms: true
+					icon: "immersiveengineering:conveyor_basic"
+					id: "40D53189E64FB9A6"
+					silent: true
+					title: "Unlocked Logistics MK 2!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "01ED9CA905D07785"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "57E813609F7309F2"
+				item: "kubejs:tier_2_research"
+				type: "item"
+			}]
+			title: "Unlock Logistics MK II"
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["448816F7D4D70BE2"]
+			hide_until_deps_complete: true
+			id: "63F6797D276B7C6F"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p LogisticsMK3"
+					elevate_perms: true
+					icon: "immersiveengineering:conveyor_basic"
+					id: "31846AF7A88A2771"
+					silent: true
+					title: "Unlocked Logistics MK 3!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "046124047500863B"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "34EFF8FB052D718B"
+				item: "kubejs:tier_3_research"
+				type: "item"
+			}]
+			title: "Unlock Logistics MK III"
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["63F6797D276B7C6F"]
+			hide_until_deps_complete: true
+			id: "2F4CF55CA82B4B01"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p LogisticsMK4"
+					elevate_perms: true
+					icon: "immersiveengineering:conveyor_basic"
+					id: "47B5B875F3231BF8"
+					silent: true
+					title: "Unlocked Logistics MK 4!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "47F52FABA61AC2A6"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "6052EDB7588EEAA1"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlock Logistics MK IV"
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			can_repeat: false
+			hide_until_deps_complete: true
+			id: "59F8CBCCD3458267"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p StorageMK1"
+					elevate_perms: true
+					icon: "mekanism:personal_chest"
+					id: "3BAF3CF0BB78EEA5"
+					silent: true
+					title: "Unlocked Storage MK 1!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "10A8137B1CC4649D"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "3B17B3EB0B3A8648"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlock Storage MK I"
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["59F8CBCCD3458267"]
+			hide_until_deps_complete: true
+			id: "0F10108645E1C5F8"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p StorageMK2"
+					elevate_perms: true
+					icon: "mekanism:personal_chest"
+					id: "47BB27B76DA086C9"
+					silent: true
+					title: "Unlocked Storage MK 2!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "777B3877D5D6A2B9"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "4E4B26F91A6DB6A8"
+				item: "kubejs:tier_2_research"
+				type: "item"
+			}]
+			title: "Unlock Storage MK II"
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0F10108645E1C5F8"]
+			hide_until_deps_complete: true
+			id: "44874A24BB503161"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p StorageMK3"
+					elevate_perms: true
+					icon: "mekanism:personal_chest"
+					id: "189C2E48B3728F4A"
+					silent: true
+					title: "Unlocked Storage MK 3!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "77FCEC7DD8418DDB"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "6C29FB4376F988FB"
+				item: "kubejs:tier_3_research"
+				type: "item"
+			}]
+			title: "Unlock Storage MK III"
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["44874A24BB503161"]
+			hide_until_deps_complete: true
+			id: "610410B4B77C534E"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p StorageMK4"
+					elevate_perms: true
+					icon: "mekanism:personal_chest"
+					id: "3E2A376167D4B60C"
+					silent: true
+					title: "Unlocked Storage MK 4!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "0E1A76EB59E9ED53"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "2A78893562409689"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlock Storage MK IV"
+			x: 2.5d
+			y: -9.0d
+		}
+		{
+			can_repeat: false
+			hide_until_deps_complete: true
+			id: "074ABFD51CB600D8"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p CreateMK1"
+					elevate_perms: true
+					icon: "create:creative_motor"
+					id: "476F16DEB7FEEC0D"
+					silent: true
+					title: "Unlocked Create MK 1!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "5B35A8B4A77745E0"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "2359622892B0780F"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlock Create MK I"
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["074ABFD51CB600D8"]
+			hide_until_deps_complete: true
+			id: "42553991FF47FD65"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p CreateMK2"
+					elevate_perms: true
+					icon: "create:creative_motor"
+					id: "4B3CFAA05DB93CA4"
+					silent: true
+					title: "Unlocked Create MK 2!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "2334BE2F261384E8"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "726BD9D374DD4E62"
+				item: "kubejs:tier_2_research"
+				type: "item"
+			}]
+			title: "Unlock Create MK II"
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["42553991FF47FD65"]
+			hide_until_deps_complete: true
+			id: "6822554BADC1B6F7"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p CreateMK3"
+					elevate_perms: true
+					icon: "create:creative_motor"
+					id: "3833CAED67CAB4BD"
+					silent: true
+					title: "Unlocked Create MK 3!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "4160BF7D800E50FA"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "114642E9C32FFD3B"
+				item: "kubejs:tier_3_research"
+				type: "item"
+			}]
+			title: "Unlock Create MK III"
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["6822554BADC1B6F7"]
+			hide_until_deps_complete: true
+			id: "1C5063DFAFDAFFE7"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p CreateMK4"
+					elevate_perms: true
+					icon: "create:creative_motor"
+					id: "23DE262FBAF777C8"
+					silent: true
+					title: "Unlocked Create MK 4!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "5971F1781BA04DA9"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "7E6B04F9139AAE7C"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlock Create MK IV"
+			x: 9.0d
+			y: -9.0d
+		}
+		{
+			can_repeat: false
+			hide_until_deps_complete: true
+			id: "15A6BDBFAEC11506"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p MaterialsMK1"
+					elevate_perms: true
+					icon: "extendedcrafting:nether_star_block"
+					id: "180EB79A4ECCA22C"
+					silent: true
+					title: "Unlocked Materials MK 1!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "0E229F47B01787A5"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "1A9B6263B9245CA6"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlock Materials MK I"
+			x: 15.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["15A6BDBFAEC11506"]
+			hide_until_deps_complete: true
+			id: "03D5AAC024D064B6"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p MaterialsMK2"
+					elevate_perms: true
+					icon: "extendedcrafting:nether_star_block"
+					id: "4F6126AE80ACF00B"
+					silent: true
+					title: "Unlocked Materials MK 2!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "3249FC7EAFC56A6C"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "39463E20FE62BB53"
+				item: "kubejs:tier_2_research"
+				type: "item"
+			}]
+			title: "Unlock Materials MK II"
+			x: 15.5d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["03D5AAC024D064B6"]
+			hide_until_deps_complete: true
+			id: "3F78D5C9DEEF2924"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p MaterialsMK3"
+					elevate_perms: true
+					icon: "extendedcrafting:nether_star_block"
+					id: "57CF84A5762C103A"
+					silent: true
+					title: "Unlocked Materials MK 3!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "73D9D5D06C5F7F5B"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "1864EAE21BC7F166"
+				item: "kubejs:tier_3_research"
+				type: "item"
+			}]
+			title: "Unlock Materials MK III"
+			x: 15.5d
+			y: -6.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3F78D5C9DEEF2924"]
+			hide_until_deps_complete: true
+			id: "32477E55B093BBA2"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p MaterialsMK4"
+					elevate_perms: true
+					icon: "extendedcrafting:nether_star_block"
+					id: "6258F3CBD5BA29C1"
+					silent: true
+					title: "Unlocked Materials MK 4!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "75C34A8A6A945EB2"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "3B67A4B81ED021BA"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlock Materials MK IV"
+			x: 15.5d
+			y: -9.0d
+		}
+		{
+			can_repeat: false
+			hide_until_deps_complete: true
+			id: "4B51521E6834EEC9"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p TechnologyMK1"
+					elevate_perms: true
+					icon: "enderio:yeta_wrench"
+					id: "220C4D8B5C477CE8"
+					silent: true
+					title: "Unlocked Technology MK 1!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "1E39601970AEC2A0"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "11CAA412C79C8A59"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlock Technology MK I"
+			x: 21.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["4B51521E6834EEC9"]
+			hide_until_deps_complete: true
+			id: "7B96F46DE7C4FD1D"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p TechnologyMK2"
+					elevate_perms: true
+					icon: "enderio:yeta_wrench"
+					id: "240D3C633FCBB384"
+					silent: true
+					title: "Unlocked Technology MK 2!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "6D1AD67AD1B8A740"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "786132C6552CC209"
+				item: "kubejs:tier_2_research"
+				type: "item"
+			}]
+			title: "Unlock Technology MK II"
+			x: 21.5d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7B96F46DE7C4FD1D"]
+			hide_until_deps_complete: true
+			id: "328ACB000149BCBD"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p TechnologyMK3"
+					elevate_perms: true
+					icon: "enderio:yeta_wrench"
+					id: "5FE217605A59AACD"
+					silent: true
+					title: "Unlocked Technology MK 3!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "55A75EF112CF4398"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "69A8CFD4D32C8D75"
+				item: "kubejs:tier_3_research"
+				type: "item"
+			}]
+			title: "Unlock Technology MK III"
+			x: 21.5d
+			y: -6.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["328ACB000149BCBD"]
+			hide_until_deps_complete: true
+			id: "56F882224DFA7ACB"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p TechnologyMK4"
+					elevate_perms: true
+					icon: "enderio:yeta_wrench"
+					id: "2B805A8F831BF9B9"
+					silent: true
+					title: "Unlocked Technology MK 4!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "63DA9AE1CCA6B3E6"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "508B499AD74BDEA3"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlock Technology MK IV"
+			x: 21.5d
+			y: -9.0d
+		}
+		{
+			can_repeat: false
+			hide_until_deps_complete: true
+			id: "63D58CBA6764696D"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p HydroDynamicsMK1"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "minecraft:item/bucket"
+						}
+					}
+					id: "083978CC122EF08C"
+					silent: true
+					title: "Unlocked Hydro Dynamics MK 1!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "37A0C6FB2C87021A"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "6B3965DD8C3F8CBD"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlock Hydro Dynamics MK I"
+			x: 27.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["63D58CBA6764696D"]
+			hide_until_deps_complete: true
+			id: "0421B82C7C208EA7"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p HydroDynamicsMK2"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "minecraft:item/bucket"
+						}
+					}
+					id: "547089F7DA8951AF"
+					silent: true
+					title: "Unlocked Hydro Dynamics MK 2!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "13A4913B8FFC30DC"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "16C1E4C8276DDEF3"
+				item: "kubejs:tier_2_research"
+				type: "item"
+			}]
+			title: "Unlock Hydro Dynamics MK II"
+			x: 27.5d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0421B82C7C208EA7"]
+			hide_until_deps_complete: true
+			id: "1CC50EF23DDD7A75"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p HydroDynamicsMK3"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "minecraft:item/bucket"
+						}
+					}
+					id: "736FB3213D828E13"
+					silent: true
+					title: "Unlocked Hydro Dynamics MK 3!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "4A9839D4075432A3"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "76A8A34441ECC60E"
+				item: "kubejs:tier_3_research"
+				type: "item"
+			}]
+			title: "Unlock Hydro Dynamics MK III"
+			x: 27.5d
+			y: -6.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1CC50EF23DDD7A75"]
+			hide_until_deps_complete: true
+			id: "231B41D8B51BDEC1"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p HydroDynamicsMK4"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "minecraft:item/bucket"
+						}
+					}
+					id: "3731E22DC0453734"
+					silent: true
+					title: "Unlocked Hydro Dynamics MK 4!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "03AEBAB9D4DB7944"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "34D7F84F82F14C8C"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlock Hydro Dynamics MK IV"
+			x: 27.5d
+			y: -9.0d
+		}
+		{
+			can_repeat: false
+			hide_until_deps_complete: true
+			id: "7B3FC571ADAEFEF0"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p TransportationMK1"
+					elevate_perms: true
+					icon: "minecraft:minecart"
+					id: "3DAB2A26D5713F89"
+					silent: true
+					title: "Unlocked Transportation MK 1!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "3DEAF63F1C77183D"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "51E88CBD20F01597"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlock Transportation MK I"
+			x: 33.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["7B3FC571ADAEFEF0"]
+			hide_until_deps_complete: true
+			id: "1EE7C6C1222A64F8"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p TransportationMK2"
+					elevate_perms: true
+					icon: "minecraft:minecart"
+					id: "54BDC3FDBEABBECB"
+					silent: true
+					title: "Unlocked Transportation MK 2!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "05DE21F8439EA5D8"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "306183A18027FFD4"
+				item: "kubejs:tier_2_research"
+				type: "item"
+			}]
+			title: "Unlock Transportation MK II"
+			x: 33.5d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["1EE7C6C1222A64F8"]
+			hide_until_deps_complete: true
+			id: "363830092865345C"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p TransportationMK3"
+					elevate_perms: true
+					icon: "minecraft:minecart"
+					id: "20C8C7D6F2987581"
+					silent: true
+					title: "Unlocked Transportation MK 3!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "282C3C835B7AE0B5"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "3684A7B1305BC98F"
+				item: "kubejs:tier_3_research"
+				type: "item"
+			}]
+			title: "Unlock Transportation MK III"
+			x: 33.5d
+			y: -6.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["363830092865345C"]
+			hide_until_deps_complete: true
+			id: "2E84176DD9EA4DDF"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p TransportationMK4"
+					elevate_perms: true
+					icon: "minecraft:minecart"
+					id: "58353918849CD588"
+					silent: true
+					title: "Unlocked Transportation MK 4!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "148AA4D28158854E"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "06DCA141790D9D06"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlock Transportation MK IV"
+			x: 33.5d
+			y: -9.0d
+		}
+		{
+			can_repeat: false
+			hide_until_deps_complete: true
+			id: "70679188C7F2BDE9"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p BuildingMK1"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "thermal:wrench"
+						tag: { }
+					}
+					id: "526361A80AC484B9"
+					silent: true
+					title: "Unlocked Building MK 1!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "655567C8B62D2303"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "56971704C1F31AA6"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlock Building MK I"
+			x: 39.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["70679188C7F2BDE9"]
+			hide_until_deps_complete: true
+			id: "53F25606B1F3CDFA"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p BuildingMK2"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "thermal:wrench"
+						tag: { }
+					}
+					id: "747E855649FB4365"
+					silent: true
+					title: "Unlocked Building MK 2!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "27E4C4B33C9FB4D5"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "6C2CCDD5A3DDEABF"
+				item: "kubejs:tier_2_research"
+				type: "item"
+			}]
+			title: "Unlock Building MK II"
+			x: 39.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["53F25606B1F3CDFA"]
+			hide_until_deps_complete: true
+			id: "74C45D212ED5E6A3"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p BuildingMK3"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "thermal:wrench"
+						tag: { }
+					}
+					id: "1603E1AF0A04F3EF"
+					silent: true
+					title: "Unlocked Building MK 3!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "566D1ADE06FA1A7B"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "2AA96786E58DD7A4"
+				item: "kubejs:tier_3_research"
+				type: "item"
+			}]
+			title: "Unlock Building MK III"
+			x: 39.0d
+			y: -6.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["74C45D212ED5E6A3"]
+			hide_until_deps_complete: true
+			id: "4C22BEC293B32687"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p BuildingMK4"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "thermal:wrench"
+						tag: { }
+					}
+					id: "5567982D94E7F0D0"
+					silent: true
+					title: "Unlocked Building MK 4!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:music_disc_pigstep"
+					id: "3056861A30D5AB8A"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "080F31C0DD53C5CE"
+				item: "kubejs:tier_4_research"
+				type: "item"
+			}]
+			title: "Unlock Building MK IV"
+			x: 39.0d
+			y: -9.0d
+		}
+	]
+	title: "Unlock the MK's!"
+}

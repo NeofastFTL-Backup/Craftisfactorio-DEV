@@ -1,0 +1,16 @@
+filename = 'ExtendedCrafting-1.20.1-6.0.10.jar'
+name = 'Extended Crafting'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5f57644549744e4c54d717b51661b1de765f7492'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6880322
+project-id = 268387

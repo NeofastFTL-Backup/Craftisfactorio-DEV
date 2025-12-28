@@ -1,0 +1,141 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_1"
+	group: "49D0DDE3386375F3"
+	icon: "kubejs:tier_1_research"
+	id: "02923719353094F9"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "210DDF19D20FF90C"
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "79C3EBC296984F8B"
+				item: "minecraft:iron_block"
+				task_screen_only: true
+				type: "item"
+			}]
+			title: "Requirement 1"
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "7817316999C13EC2"
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "470840D218681CD0"
+				item: "minecraft:copper_block"
+				task_screen_only: true
+				type: "item"
+			}]
+			title: "Requirement 2"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "6D3A4859E2B85C9A"
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "0BD8DB96FBD0C560"
+				item: "minecraft:coal_block"
+				task_screen_only: true
+				type: "item"
+			}]
+			title: "Requirement 3"
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"210DDF19D20FF90C"
+				"6D3A4859E2B85C9A"
+				"7817316999C13EC2"
+			]
+			id: "544769469BCF931C"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "3B940190AF16AF2E"
+					item: "kubejs:tier_1_research"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					command: "/ftbquests change_progress @p reset 02923719353094F9"
+					elevate_perms: true
+					icon: "minecraft:furnace"
+					id: "4268EF7A9660A093"
+					silent: true
+					title: "Reset"
+					type: "command"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "minecraft:popped_chorus_fruit"
+				id: "03074F423EAA7836"
+				title: "You did it!"
+				type: "dimension"
+			}]
+			title: "Unlocked Tier 1!"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["544769469BCF931C"]
+			hide_details_until_startable: false
+			icon: "kubejs:tier_1_research"
+			id: "5347F62A0317B789"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/gamestage add @p Tier2Research"
+					elevate_perms: true
+					icon: "minecraft:grass_block"
+					id: "553793C924678E3E"
+					silent: true
+					title: "Unlocked Tier 2 Elements!"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/playsound minecraft:custom_tier_complete master @p"
+					elevate_perms: true
+					icon: "minecraft:jukebox"
+					id: "7196ED1D0CB68D40"
+					silent: true
+					title: "Dopamine"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/title @p title {\"text\":\"Unlocked Tier 2\",\"color\":\"light_purple\"}"
+					elevate_perms: true
+					icon: "minecraft:compass"
+					id: "6677533AAC765FC3"
+					silent: true
+					title: "More Dopamine"
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1B1185880A037BBA"
+				item: "kubejs:tier_1_research"
+				type: "item"
+			}]
+			title: "Unlocked Researching Tier 2!"
+			x: 0.0d
+			y: 3.5d
+		}
+	]
+	title: "Tier 1"
+}

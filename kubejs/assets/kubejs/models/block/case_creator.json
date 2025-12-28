@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "neofastftl:block/case_creator_side",
+    "bottom": "neofastftl:block/case_creator_bottom",
+    "top": "neofastftl:block/case_creator_top"
+  }
+}

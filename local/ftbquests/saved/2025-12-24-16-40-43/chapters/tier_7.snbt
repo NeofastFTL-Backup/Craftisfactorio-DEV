@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_7"
+	group: "49D0DDE3386375F3"
+	icon: "kubejs:tier_7_research"
+	id: "5570515529BF31D0"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 7"
+}

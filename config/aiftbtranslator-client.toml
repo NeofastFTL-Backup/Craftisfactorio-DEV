@@ -1,0 +1,40 @@
+
+["AI FTB Translator Settings"]
+	#Set to true to enable quest translation, false to disable.
+	enableTranslation = true
+	#The language you want to translate quests into.
+	#Set to 'auto' to use your currently selected Minecraft language.
+	#Examples for manual override: 'Polish', 'German', 'Spanish'.
+	targetLanguage = "auto"
+	#If true, long descriptions will be summarized instead of fully translated. Good for readability.
+	summarizeLongText = true
+	#If true, translations will only be shown while holding down the 'Translate' keybind (check your controls).
+	#Set to false to show translations automatically on hover.
+	onDemandMode = false
+	#If true, the mod will not attempt to translate quests from English to English.
+	#This is a useful optimization to save API calls when your game is set to English.
+	disableEnglishToEnglish = true
+
+["Community Cache"]
+	#Determines which community translation file to load from the 'config/aiftb_community_cache/' folder.
+	#Set to 'auto' to automatically match your current game language (e.g., game set to Polish will load 'pl.json').
+	#Set to a specific language code (e.g., 'pl', 'de', 'es_mx') to force loading that file.
+	communityLanguageOverride = "auto"
+
+["Advanced API Settings"]
+	#Set to true to use a local Ollama model instead of an OpenAI-compatible API.
+	#When true, the API Key is ignored and the API URL should point to your Ollama instance.
+	#This can be on your local machine (e.g., http://localhost:11434/api/chat) or another computer on your network (e.g., http://192.168.1.50:11434/api/chat).
+	useOllama = false
+	#The base URL for the API.
+	#For OpenAI-compatible services, use the chat completions endpoint (e.g., 'https://api.example.com/v1/chat/completions').
+	#For Ollama, use the chat endpoint of your instance (e.g., 'http://localhost:11434/api/chat' or 'http://192.168.1.50:11434/api/chat').
+	apiUrl = "https://api.llm7.io/v1/chat/completions"
+	#Your API key.
+	#This is IGNORED if 'useOllama' is set to true.
+	apiKey = "unused"
+	#The name of the model to use for translation.
+	#For OpenAI-compatible services: e.g., 'gpt-4o-mini'.
+	#For Ollama: e.g., 'llama3', 'mistral'.
+	modelName = "gpt-5-mini"
+

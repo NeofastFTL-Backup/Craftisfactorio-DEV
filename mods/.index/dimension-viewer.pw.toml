@@ -1,0 +1,16 @@
+filename = 'dimensionviewer-1.20-1.4.0.jar'
+name = 'Dimension Viewer'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ad69ac50b0d808f530e55b688a07136fc5381ab5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4632484
+project-id = 857799

@@ -1,0 +1,11 @@
+#6F6 minecraft:badlands
+#556 minecraft:beach
+#008 minecraft:desert
+#614 minecraft:eroded_badlands
+#79A minecraft:lukewarm_ocean
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau
+#51A minecraft:stony_shore
+#2B7 minecraft:warm_ocean

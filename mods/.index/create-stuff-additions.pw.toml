@@ -1,0 +1,16 @@
+filename = 'create-stuff-additions1.20.1_v2.1.0.jar'
+name = "Create Stuff 'N Additions"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '02c8a8b61370c28e153e1d2bc9bd0db7a8193854'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6412397
+project-id = 466792
